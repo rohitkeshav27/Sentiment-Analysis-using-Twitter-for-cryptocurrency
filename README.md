@@ -2,6 +2,13 @@
 This is a Flask application that is used to get sentiments regarding a particular cryptocurrency in the realtime.These sentiments are derived from the tweets from the twitter.
 In this we analyse the incoming tweets based on the hashtags and a combination of "Hashtags+influencers".
 
+
+The required libraries to install are-->
+
+The libraries or modules are present in the file requirements.txt
+
+
+
 The Variable.py is the file that is holding all the required credentials which will be used later in the project.After replacing them with your own credentials,save it.
 
 "preprocess_data.py" is the one responsible for cleaning up the incoming Tweets.This is implicitly called by one of the program later.
