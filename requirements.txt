@@ -1,0 +1,9 @@
+nltk==3.4
+sklearn
+keras==2.2.4
+flask==1.0.2
+mysql-connector-python
+tweepy==3.8.0
+urllib3==1.24.1
+python-dateutil==2.8.0
+flask_restful
