@@ -52,6 +52,9 @@ Tweets          | varchar(400)
 
 Category        | varchar(10)
 
+
+![mysql](https://user-images.githubusercontent.com/43274184/62264074-239c6400-b43c-11e9-97f3-a3ae83cc0b9e.png)
+
 Please make sure you use the same variable name!!
 
 # "Hashtag_tweets.py"
