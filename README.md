@@ -5,7 +5,7 @@ In this project we analyse the incoming tweets based on the hashtags and a combi
 
 # The required libraries to install are-->
 
-The libraries/modules are present in the file requirements.txt
+The libraries/modules are present in the file "requirements.txt"
 
 
 
