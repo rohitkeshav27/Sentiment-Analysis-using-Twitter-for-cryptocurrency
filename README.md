@@ -96,6 +96,16 @@ This is the flask app used to get the sentiments based on hashtags and influence
                  for days ----->pass the argument as [d no_of_days]
                  for a range of date--->pass the argument as [r %Y-%m-%d  %Y-%m-%d]   (the first date is the start date and the second                    one is the end date)            
 
+# Output as seen on Browser
+
+# When you run flask_influ.py
+
+![flaskinflu](https://user-images.githubusercontent.com/43274184/62264671-8abb1800-b43e-11e9-9b68-cddc2d42b3de.png)
+
+
+# When you run flask_hash.py
+
+![flaskhash](https://user-images.githubusercontent.com/43274184/62264685-a0c8d880-b43e-11e9-9b0c-72e1e8cbb42d.png)
 
 
  
